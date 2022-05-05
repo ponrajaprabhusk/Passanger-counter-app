@@ -1,3 +1,3 @@
 # Passanger-counter-app
 
-This is my first JavaScript project which is a simple one that uses DOM and methods like textContent !! 
+This is my first JavaScript project which uses DOM and methods like textContent !! 
